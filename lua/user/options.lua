@@ -32,11 +32,10 @@ local options = {
   signcolumn = "yes",                      -- always show the sign column, otherwise it would shift the text each time
   wrap = false,                            -- display lines as one long line
   scrolloff = 4,                           -- is one of my fav
-  signcolumn = "yes",
   sidescrolloff = 4,
   guifont = "monospace:h17",               -- the font used in graphical neovim applications
   guicursor = '',
-  colorcolumn='95',
+  colorcolumn='85',
 }
 
 

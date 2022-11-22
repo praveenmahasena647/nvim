@@ -1,6 +1,6 @@
 --[[ local color ='catppuccin' ]]
---[[ local color='tokyonight' ]]
 local color='tokyonight'
+--[[ local color='gruvbox' ]]
 --[[]]
 function ColorMyPenciles()
     vim.g.gruvbox_contrast_dark = 'hard'

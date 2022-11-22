@@ -42,8 +42,6 @@ telescope.setup {
     },
 }
 
-vim.api.nvim_set_keymap('n','t',':Telescope<CR>',{noremap=true})
 vim.api.nvim_set_keymap('n','F',':Telescope find_files<CR>',{noremap=true})
 vim.api.nvim_set_keymap('n','<C-F>',':Telescope buffers<CR>',{noremap=true})
-vim.api.nvim_set_keymap('n','<C-p>',':Telescope grep_string({search=vim.fn.input("Grep For > ")})<CR>',{noremap=true})
 vim.api.nvim_set_keymap('n','h',':Telescope git_files<CR>',{noremap=true})

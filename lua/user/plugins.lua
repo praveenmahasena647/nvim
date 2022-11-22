@@ -125,6 +125,8 @@ return packer.startup(function(use)
   use 'sbdchd/neoformat'
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
+    use  'williamboman/mason.nvim' -- remove if Error
+      use  'williamboman/mason-lspconfig.nvim'-- remove if Error
   if PACKER_BOOTSTRAP then
     require("packer").sync()
   end
