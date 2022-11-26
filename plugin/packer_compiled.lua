@@ -209,6 +209,11 @@ _G.packer_plugins = {
     path = "/home/cj/.local/share/nvim/site/pack/packer/start/neoformat",
     url = "https://github.com/sbdchd/neoformat"
   },
+  neovim = {
+    loaded = true,
+    path = "/home/cj/.local/share/nvim/site/pack/packer/start/neovim",
+    url = "https://github.com/rose-pine/neovim"
+  },
   ["nlsp-settings.nvim"] = {
     loaded = true,
     path = "/home/cj/.local/share/nvim/site/pack/packer/start/nlsp-settings.nvim",

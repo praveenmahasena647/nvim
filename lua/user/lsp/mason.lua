@@ -7,7 +7,8 @@
  	"jsonls",
  	 "yamlls",
  	 "gopls",
- 	 "volar",
+     "volar",
+     "omnisharp",
 }
 
  local settings = {

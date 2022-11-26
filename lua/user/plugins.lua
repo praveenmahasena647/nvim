@@ -63,6 +63,7 @@ return packer.startup(function(use)
   -- Colorschemes
   --use 'ghifarit53/tokyonight-vim'
   use 'morhetz/gruvbox'
+  use 'rose-pine/neovim'
   --use 'folke/tokyonight.nvim'
   use 'ghifarit53/tokyonight-vim'
   use { "catppuccin/nvim", as = "catppuccin" }
