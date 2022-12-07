@@ -1,14 +1,15 @@
  local servers = {
- 	"sumneko_lua",
- 	 "cssls",
- 	 "html",
- 	 "tsserver",
- 	 "bashls",
- 	"jsonls",
- 	 "yamlls",
- 	 "gopls",
+     "sumneko_lua",
+     "cssls",
+     "html",
+     "tsserver",
+     "bashls",
+     "jsonls",
+     "yamlls",
+     "gopls",
      "volar",
      "omnisharp",
+     "tailwindcss",
 }
 
  local settings = {
