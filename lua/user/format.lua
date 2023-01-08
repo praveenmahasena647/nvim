@@ -57,4 +57,3 @@ vim.g.prettier_config_prose_wrap = 'preserve'
 vim.g.prettier_config_html_whitespace_sensitivity = 'css'
 
 vim.g.prettier_config_require_pragma = 'false'
-

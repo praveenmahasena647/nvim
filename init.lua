@@ -18,5 +18,5 @@ require "user.autocommands"
 require "user.harpoon"
 require "user.format"
 require "user.undoTree"
-require "user.fzf"
+--[[ require "user.fzf" ]]
 require "user.background"
