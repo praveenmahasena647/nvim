@@ -10,6 +10,8 @@
      "volar",
      "omnisharp",
      "tailwindcss",
+     "pylsp",
+     "rust_analyzer",
 }
 
  local settings = {
